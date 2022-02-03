@@ -1,0 +1,4 @@
+baseURL = 'http://blueeon.github.io/'
+languageCode = 'en-us'
+title = 'blueeon 的日志'
+theme = "tale-hugo"
