@@ -3,9 +3,13 @@ languageCode = 'en-us'
 title = 'blueeon 的日志'
 theme = "tale-hugo"
 contentdir = "content"
-publishdir = "public"
+publishdir = "docs"
 disableSitemap=false
 disableRSS=false
+staticdir="static"
+[Author]
+    name="blueeon"
+
 [params]
   description = "文以载道"
   author = "blueeon"

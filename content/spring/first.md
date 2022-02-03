@@ -17,7 +17,7 @@ draft: false
 * 创建文章：`hugo new [spring|...] title.md`
 * 本地预览：`hugo server --buildDrafts`
 * 发布：
-    1. `hugo`
+    1. `hugo public`
     2. `git push`
 
 ## 参考
