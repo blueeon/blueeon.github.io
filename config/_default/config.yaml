@@ -11,7 +11,7 @@ defaultContentLanguage: zh
 
 hasCJKLanguage: true
 permalinks:
-  posts: /posts/:title/
+  about: /about/:title/
 
 paginate: 5
 enableRobotsTXT: true
