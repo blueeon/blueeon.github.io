@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spring on Blueeon的日志</title>
+    <link>/tags/spring/</link>
+    <description>Recent content in spring on Blueeon的日志</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 09 Feb 2021 18:20:00 +0800</lastBuildDate><atom:link href="/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20年的终结</title>
+      <link>/spring/2020-happy-ending/</link>
+      <pubDate>Tue, 09 Feb 2021 18:20:00 +0800</pubDate>
+      
+      <guid>/spring/2020-happy-ending/</guid>
+      <description>从隔离开始，从隔离结束，这就是我的2020年。 元旦的时候就想沉下心来好好回顾一下这乱糟糟的一年，一直到20年最后一个工作日，意外的被隔离了，</description>
+    </item>
+    
+    <item>
+      <title>一点阶段小目标</title>
+      <link>/spring/small-target-20181010/</link>
+      <pubDate>Wed, 10 Oct 2018 21:08:00 +0800</pubDate>
+      
+      <guid>/spring/small-target-20181010/</guid>
+      <description>武汉的工作算是告一段落。 搭建团队的工作基本快完成了，几天算了一下，已经90人了，还有三个月，完成几乎是一定的。但是接下来马上有了新的麻烦： 如</description>
+    </item>
+    
+    <item>
+      <title>迎接30周岁</title>
+      <link>/spring/welcome30/</link>
+      <pubDate>Sat, 12 Mar 2016 17:30:00 +0800</pubDate>
+      
+      <guid>/spring/welcome30/</guid>
+      <description>打开Excel，写下1987，向下拉到2018，我小心的数数，数到第31行，光标停留在2017。 17年8月，30周岁。 去年开始我时常想到这个</description>
+    </item>
+    
+    <item>
+      <title>Three things every year[2016]</title>
+      <link>/spring/3things4year-2016/</link>
+      <pubDate>Thu, 28 Jan 2016 14:36:00 +0800</pubDate>
+      
+      <guid>/spring/3things4year-2016/</guid>
+      <description>年龄大了工作久了，事情越来越多，我决定每年年初给当年定下目标，这一年做三件事，可以是： 培养一个小爱好，可以是旧的，也可以是新的 学习一个新技能</description>
+    </item>
+    
+  </channel>
+</rss>

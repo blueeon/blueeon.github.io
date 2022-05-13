@@ -2,6 +2,7 @@
 Title: 生来彷徨
 date: 2018-05-22T23:45:00+08:00
 status: public
+tags: ["winter"]
 ---
 ![](http://blog.blueeon.me/_image/2018-05-23/00-26-25.jpg)
 > 图：《Where Do We Come From? What Are We? Where Are We Going?》
