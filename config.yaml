@@ -47,9 +47,9 @@ params:
   # Site Author
   author: Blueeon
   # Author biography
-  bio: Software Engineer
+  bio: whispers in the dark
   # Site Description, used in HTML meat
-  description: My Blog
+  description: Blueeon的日志
 
 
   ###########################################
@@ -57,15 +57,15 @@ params:
   ###########################################
 
   # To enable RSS, you could set `enableRSS: true`, default is `true`
-  enableRSS: true
+  enableRSS: false
   # To enable comments, you may need to set `disqusShortname`
-  enableComments: true
+  enableComments: false
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: true
   # To enable table of content, you could set `showToc: true`, default is `false`
-  showToc: true
+  showToc: false
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
-  showPowerBy: true
+  showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
