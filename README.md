@@ -1,4 +1,4 @@
-# 博客
+# blog
 
 ## 约定
 
@@ -13,11 +13,11 @@
 * 创建文章：`hugo new [spring|...] title.md`
 * 本地预览：`hugo server --buildDrafts`
 * 发布：
-    1. `hugo public`
+    1. `hugo`
     2. `git push`
 
 ## 参考
 [Hugo中文文档](https://www.gohugo.org/)
-
+[Hugo Configuration](https://hugocn.netlify.app/configuration.html)
 
 

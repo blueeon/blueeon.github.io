@@ -1,0 +1,43 @@
+baseURL: /
+theme: mini
+publishDir: docs
+
+# Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
+defaultContentLanguage: zh
+
+
+# !!! exampleSite only, you may need to delete the line: `themesDir: ../../` 
+# themesDir: ../../
+
+hasCJKLanguage: true
+permalinks:
+  posts: /posts/:title/
+
+paginate: 5
+enableRobotsTXT: true
+
+# googleAnalytics: your-google-analytics-id
+# disqusShortname: your-disqus-shortname
+
+# Hugo Configure Markup
+# More info: https://gohugo.io/getting-started/configuration-markup#
+markup:
+  highlight:
+    guessSyntax: true
+    style: emacs
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+  # needed to render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Social links in footer, support github,twitter,stackoverflow,facebook
+social:
+  # e.g.
+  # github: your-github-link
+  # twitter: your-github-link
+  # stackoverflow: your-github-link
+  # facebook: your-facebook-link

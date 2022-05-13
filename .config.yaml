@@ -1,5 +1,5 @@
 baseURL: /
-languageCode: en-us
+languageCode: zh-CN
 title: Blueeon的日志
 theme: mini
 
@@ -15,6 +15,7 @@ permalinks:
   posts: /posts/:title/
 
 paginate: 5
+enableRobotsTXT: true
 
 # googleAnalytics: your-google-analytics-id
 # disqusShortname: your-disqus-shortname
