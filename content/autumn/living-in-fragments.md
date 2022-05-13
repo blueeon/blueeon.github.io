@@ -2,7 +2,6 @@
 Title: 碎片式生活
 date: 2016-08-16T21:08:00+08:00
 status: public
-tags: 秋天
 ---
 
 ![](../../static/img//16438746093104.jpg)

@@ -3,7 +3,6 @@ Title: Three things every year[2016]
 date: 2016-01-28T14:36:00+08:00
 status: public
 title: 'Three things every year[2016]'
-tags: 春天
 ---
 
 ![](~/17-52-06.jpg)

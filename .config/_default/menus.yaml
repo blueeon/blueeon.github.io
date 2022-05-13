@@ -1,0 +1,7 @@
+main:
+  - name: 日志
+    url: /winter/
+    weight: 1
+  - name: Tag
+    url: /autumn/
+    weight: 2

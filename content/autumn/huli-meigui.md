@@ -2,7 +2,6 @@
 title: 狐狸和玫瑰
 date: 2015-11-23T14:05:00+08:00
 status: public
-tags: 小王子
 draft: false
 ---
 

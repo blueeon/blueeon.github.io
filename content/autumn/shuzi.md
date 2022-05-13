@@ -2,7 +2,6 @@
 title: 数字
 date: 2015-11-23T13:52:00+08:00
 status: public
-tags: 小王子
 ---
 
 > 摘自《小王子》

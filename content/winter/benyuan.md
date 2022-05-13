@@ -2,7 +2,6 @@
 Title: 本源
 date: 2018-01-13T15:29:00+08:00
 status: public
-tags: 夏天
 ---
 
 毛泽东写给黎锦熙的信：
